@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/baldeeb/Documents/Projects/ROB520MobileRobotics/project/Hierarchical-Actor-Critc-HAC--master/ant_environments/ant_four_rooms_3_levels/models/HAC.ckpt-99"
+all_model_checkpoint_paths: "/home/baldeeb/Documents/Projects/ROB520MobileRobotics/project/Hierarchical-Actor-Critc-HAC--master/ant_environments/ant_four_rooms_3_levels/models/HAC.ckpt-99"
